@@ -26,7 +26,6 @@ Supported sites/pages (examples)
 * `OpenClassrooms`: Lastest tutorials from [openclassrooms.com](https://openclassrooms.com/)
 * `Pinterest`: Most recent photos from user or search
 * `ScmbBridge`: Newest stories from [secouchermoinsbete.fr](https://secouchermoinsbete.fr/)
-* `ThePirateBay` : Returns the newest indexed torrents from [The Pirate Bay](https://thepiratebay.se/) with keywords
 * `Twitter` : Return keyword/hashtag search or user timeline
 * `Wikipedia`: highlighted articles from [Wikipedia](https://wikipedia.org/) in English, German, French or Esperanto
 * `YouTube` : YouTube user channel, playlist or search
